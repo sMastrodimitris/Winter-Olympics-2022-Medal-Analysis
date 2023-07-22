@@ -1,0 +1,126 @@
+Country,Average height men,Weight men,BMI men
+Netherlands,1.84 m,87.9 kg,26.1
+Montenegro,1.83 m,90.4 kg,27.0
+Estonia,1.82 m,89.9 kg,27.0
+Denmark,1.82 m,86.8 kg,26.3
+Bosnia and Herzegovina,1.82 m,87.1 kg,26.4
+Iceland,1.81 m,89.2 kg,27.1
+Czechia,1.81 m,91.9 kg,28.1
+Slovenia,1.81 m,87.0 kg,26.6
+Slovakia,1.81 m,89.5 kg,27.4
+Croatia,1.81 m,91.3 kg,28.0
+Serbia,1.80 m,86.9 kg,26.7
+Sweden,1.80 m,87.1 kg,26.8
+Norway,1.80 m,89.1 kg,27.4
+Lithuania,1.80 m,88.1 kg,27.1
+Poland,1.80 m,89.0 kg,27.4
+Ukraine,1.80 m,87.6 kg,27.0
+Finland,1.80 m,86.3 kg,26.6
+Latvia,1.80 m,87.9 kg,27.1
+Germany,1.80 m,88.7 kg,27.4
+Dominica,1.80 m,80.7 kg,25.0
+Belgium,1.79 m,85.9 kg,26.8
+Bermuda,1.79 m,88.4 kg,27.6
+Greece,1.79 m,88.1 kg,27.6
+Puerto Rico,1.79 m,90.7 kg,28.4
+Switzerland,1.79 m,85.5 kg,26.8
+Australia,1.79 m,88.3 kg,27.7
+Ireland,1.79 m,89.2 kg,28.0
+Canada,1.78 m,87.3 kg,27.4
+Austria,1.78 m,84.6 kg,26.6
+France,1.78 m,82.6 kg,26.0
+Antigua and Barbuda,1.78 m,81.6 kg,25.7
+Lebanon,1.78 m,88.9 kg,28.0
+Belarus,1.78 m,84.1 kg,26.5
+Andorra,1.78 m,87.3 kg,27.5
+French Polynesia,1.78 m,93.8 kg,29.6
+Cook Islands,1.78 m,103.7 kg,32.7
+Luxembourg,1.78 m,86.2 kg,27.2
+United Kingdom,1.78 m,86.7 kg,27.4
+Grenada,1.78 m,79.3 kg,25.1
+New Zealand,1.78 m,88.9 kg,28.2
+Romania,1.77 m,85.1 kg,27.1
+Niue,1.77 m,98.8 kg,31.5
+United States,1.77 m,90.6 kg,29.0
+American Samoa,1.77 m,103.2 kg,33.1
+Hungary,1.76 m,87.6 kg,28.2
+Russia,1.76 m,80.3 kg,25.9
+Tokelau,1.76 m,99.0 kg,32.0
+Saint Lucia,1.76 m,91.1 kg,29.5
+Spain,1.76 m,84.0 kg,27.2
+Turkey,1.76 m,84.0 kg,27.2
+Israel,1.76 m,85.4 kg,27.7
+Morocco,1.75 m,78.0 kg,25.4
+Brazil,1.75 m,80.7 kg,26.3
+Georgia,1.75 m,84.2 kg,27.5
+South Korea,1.75 m,74.7 kg,24.4
+Iran,1.75 m,77.3 kg,25.3
+Tonga,1.75 m,93.7 kg,30.7
+China,1.75 m,73.5 kg,24.1
+Kazakhstan,1.74 m,80.0 kg,26.3
+Hong Kong,1.74 m,74.4 kg,24.5
+Argentina,1.74 m,84.7 kg,27.9
+Italy,1.74 m,80.9 kg,26.7
+Portugal,1.74 m,79.5 kg,26.3
+North Korea,1.74 m,73.1 kg,24.2
+Algeria,1.74 m,74.6 kg,24.7
+Costa Rica,1.74 m,80.9 kg,26.8
+Albania,1.74 m,81.4 kg,27.0
+Samoa,1.73 m,91.8 kg,30.5
+United Arab Emirates,1.73 m,84.5 kg,28.1
+Bulgaria,1.73 m,81.8 kg,27.2
+Taiwan,1.73 m,75.0 kg,25.0
+Singapore,1.73 m,72.8 kg,24.3
+Iraq,1.73 m,83.2 kg,27.8
+Mauritius,1.73 m,73.6 kg,24.6
+Egypt,1.73 m,83.1 kg,27.8
+Venezuela,1.73 m,79.8 kg,26.7
+Chile,1.73 m,82.8 kg,27.8
+Qatar,1.73 m,85.7 kg,28.8
+Haiti,1.72 m,78.0 kg,26.4
+Japan,1.72 m,69.5 kg,23.6
+Colombia,1.71 m,75.7 kg,25.8
+Thailand,1.71 m,69.8 kg,23.8
+Tuvalu,1.71 m,88.0 kg,30.1
+Cameroon,1.71 m,69.0 kg,23.6
+Sudan,1.71 m,67.8 kg,23.2
+Chad,1.71 m,64.1 kg,22.0
+Palau,1.70 m,86.0 kg,29.6
+Somalia,1.70 m,65.3 kg,22.5
+Eritrea,1.70 m,58.8 kg,20.3
+Mongolia,1.70 m,74.7 kg,25.8
+El Salvador,1.70 m,77.8 kg,26.9
+Saudi Arabia,1.70 m,80.9 kg,28.0
+Mexico,1.70 m,79.3 kg,27.5
+Kiribati,1.70 m,83.9 kg,29.1
+Zimbabwe,1.70 m,64.3 kg,22.3
+Kenya,1.70 m,63.9 kg,22.2
+Nigeria,1.70 m,65.1 kg,22.6
+Ghana,1.69 m,64.9 kg,22.6
+Nauru,1.69 m,93.0 kg,32.4
+Micronesia,1.69 m,81.1 kg,28.3
+South Africa,1.69 m,71.9 kg,25.1
+Malaysia,1.68 m,71.5 kg,25.2
+Vietnam,1.68 m,61.2 kg,21.7
+Bolivia,1.68 m,71.2 kg,25.3
+Afghanistan,1.68 m,63.6 kg,22.6
+Congo (Dem. Republic),1.68 m,60.2 kg,21.4
+Ethiopia,1.68 m,56.5 kg,20.1
+Maldives,1.68 m,69.2 kg,24.6
+Sri Lanka,1.67 m,63.1 kg,22.5
+Ecuador,1.67 m,74.2 kg,26.6
+Burundi,1.67 m,60.5 kg,21.8
+Pakistan,1.67 m,64.7 kg,23.3
+Brunei,1.66 m,74.7 kg,27.1
+Myanmar,1.66 m,61.1 kg,22.2
+India,1.66 m,59.6 kg,21.7
+Indonesia,1.66 m,61.4 kg,22.4
+Cambodia,1.65 m,59.7 kg,22.0
+Madagascar,1.65 m,58.4 kg,21.5
+Philippines,1.65 m,61.8 kg,22.8
+Bangladesh,1.65 m,57.7 kg,21.3
+Nepal,1.64 m,60.5 kg,22.5
+Guatemala,1.64 m,69.1 kg,25.7
+Yemen,1.63 m,62.5 kg,23.6
+Laos,1.62 m,59.5 kg,22.6
+Timor-Leste,1.59 m,53.9 kg,21.2
